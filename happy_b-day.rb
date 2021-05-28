@@ -17,4 +17,5 @@ until i == 4
     end
     puts "Happy birthday #{line_end}"
     i += 1
-end            
+end
+          
